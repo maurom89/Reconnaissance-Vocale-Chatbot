@@ -20,7 +20,7 @@ st.set_page_config(
 # -------------------------------
 # Initialize Groq Client
 # -------------------------------
-client = Groq(api_key=)  # <<< CHANGE THIS
+client = Groq(api_key="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")  # <<< CHANGE THIS
 
 # -------------------------------
 # Memory
